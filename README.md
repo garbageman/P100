@@ -1,5 +1,5 @@
 # P100
-## Projects designed for introductory programming
+### Projects designed for introductory programming
 
 ## Overview
 This is a repository full of programming prompts that are to help beginner programmers.
